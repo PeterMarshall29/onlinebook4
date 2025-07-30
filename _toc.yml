@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
+- file: jupyternotebooks/1_Hello_World
+- file: jupyternotebooks/2_Variables_and_types
+- file: jupyternotebooks/3_Constants
+- file: jupyternotebooks/4_Operators
+- file: jupyternotebooks/5_Input_and_Output
